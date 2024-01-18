@@ -3,7 +3,12 @@ guid: d2094916459dfa94494a1e86ffad2323
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: redhead_guy
+    second: {fileID: 2800000, guid: 7ec4192319b85c648b09b1e80ec0ed6d, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
